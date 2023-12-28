@@ -1,0 +1,6 @@
+.bgFilter{
+    backdrop-filter: blur(40.774227142333984px);
+}
+.active{
+    border-bottom: 1px solid white;
+}
